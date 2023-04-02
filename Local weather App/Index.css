@@ -1,0 +1,46 @@
+.grey-jumbo {
+    margin-top: -30px;
+    border-radius: 0px !important;
+    height: 500px;
+    color: #fff;
+    background-size: cover;
+    background-color: #42a5f5;
+    font-size: 40px;
+}
+
+.top {
+    background:linear-gradient(154deg, blue, rgb(190, 167, 167));
+    color: rgb(253, 253, 253) !important;
+    border-radius: 0px !important;
+    height: 300px;
+}
+
+
+hr.short {
+    width: 300px;
+    border-bottom: 2px solid #fff;
+    text-align: center;
+    margin-left: 549px !important;
+
+}
+hr.below {
+    width: 50px;
+    border-bottom: 1px solid #fff;
+}
+
+.row {
+    text-align: center;
+    
+}
+.row>* {
+    margin-top: 0px !important;
+}
+hr.short1{
+    margin-left: 185px !important;
+    width: 100px;
+    border-bottom: 2px solid #fff;
+    text-align: center;
+}
+#switch {
+    font-size: 25px;
+}

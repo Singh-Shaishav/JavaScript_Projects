@@ -1,0 +1,22 @@
+body{
+    background-color: #060404 !important;
+}
+.heading{
+    font-size: 50px !important;
+    color: rgb(218, 170, 136) !important;
+    font-family: 'Permanent Marker';
+    text-align: center;
+    margin-top: 100px;
+}
+
+.btn {
+    background-color: rgb(255, 255, 255) !important;
+    font-size: 15px !important;
+    color: #060404 !important;
+}
+
+.text {
+    font-size: 35px !important;
+    color: rgb(152, 231, 241) !important;
+    font-family: 'Permanent Marker';
+}
